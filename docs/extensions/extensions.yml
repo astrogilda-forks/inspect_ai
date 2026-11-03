@@ -63,7 +63,7 @@
      Transcript analysis for long-horizon agent evaluations, built on Inspect Scout.
   author: "[UK AISI](https://github.com/AI-Safety-Institute/transect)"
 
-- name: "[Probity native result reader](https://github.com/probityai/agent-evidence-observer/blob/71ac0b2126473316655184235000647a6dd0f5cf/docs/NATIVE-CONSUMER-CI.md)"
+- name: "[Probity native result reader](https://github.com/probityai/probity/blob/8892c6acdf4776ceecbbdfefe48026f316c6c1e0/packages/agent-evidence-observer/docs/NATIVE-CONSUMER-CI.md)"
   description: |
     Offline reader and publication gate for bounded native Inspect execution records, preserving errors and unstarted attempts.
   author: "[Probity](https://github.com/probityai)"
